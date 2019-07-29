@@ -13,7 +13,7 @@ the graph is mapped out between -1 and 1 so DON'T have anything bigger than + 1 
 # Correct
 def f(x):
   return 3 * x + 0.5
-  
+# Incorrect
 def f(x):
   return 3* x + 2
 ```
